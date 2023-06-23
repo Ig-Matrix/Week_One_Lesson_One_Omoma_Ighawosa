@@ -1,6 +1,6 @@
-let answer =
+let answer
 
 console.log(answer) // @logs undefined
 
-answer = null
-console.log(typeof answer) // @logs object
+const result = null
+console.log(typeof result) // @logs object
